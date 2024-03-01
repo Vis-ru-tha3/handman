@@ -12,7 +12,7 @@ public class Handmanproject
             "programming", "cloud", "openai", "backend", "variable", 
             "interface", "css", "angular", "artificial", "docker", 
             "model", "web", "hangman", "java", "node", 
-            "server", "debugging", "kubernetes", "sqlite", "framework", 
+            "server", "debugging", "kubernetes", "sqlite","framework", 
             "application"};
 
     private static final int MAX_CHANCES = 7;
